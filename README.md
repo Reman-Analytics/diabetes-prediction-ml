@@ -54,14 +54,11 @@ In healthcare informatics, minimizing **False Negatives** is life-saving. A **84
 *   **Environment:** Jupyter Notebook / VS Code
 
 ---
-<img width="1188" height="615" alt="bbb" src="https://github.com/user-attachments/assets/7545e100-4162-44ca-ab6f-6e7f2a3ef5f4" />
 
-
-<img width="650" height="242" alt="aaa" src="https://github.com/user-attachments/assets/363a299a-609d-4bb3-bdac-3fe76196bb43" />
-
+<img width="1188" height="615" alt="bbb" src="https://github.com/user-attachments/assets/475fa1f6-9aae-40b2-9864-498c6ed04500" />
 
 
 
-   
-   print("Diabetic Risk Detected!" if prediction[0] == 1 else "Patient is Healthy.")
-   ```
+
+
+
